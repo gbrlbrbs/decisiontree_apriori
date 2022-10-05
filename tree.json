@@ -1,0 +1,93 @@
+{
+    "physician-fee-freeze": {
+        "y": {
+            "synfuels-corporation-cutback": {
+                "n": {
+                    "duty-free-exports": {
+                        "n": {
+                            "adoption-of-the-budget-resolution": {
+                                "y": {
+                                    "export-administration-act-south-africa": {
+                                        "y": "republican",
+                                        "?": {
+                                            "handicapped-infants": {
+                                                "n": "democrat",
+                                                "y": "republican"
+                                            }
+                                        }
+                                    }
+                                },
+                                "n": "republican"
+                            }
+                        },
+                        "y": {
+                            "immigration": {
+                                "y": "republican",
+                                "n": {
+                                    "export-administration-act-south-africa": {
+                                        "y": "democrat",
+                                        "?": {
+                                            "water-project-cost-sharing": {
+                                                "y": "republican",
+                                                "n": "democrat"
+                                            }
+                                        },
+                                        "n": "republican"
+                                    }
+                                }
+                            }
+                        },
+                        "?": "republican"
+                    }
+                },
+                "?": "republican",
+                "y": {
+                    "adoption-of-the-budget-resolution": {
+                        "n": {
+                            "immigration": {
+                                "n": {
+                                    "mx-missile": {
+                                        "y": "democrat",
+                                        "n": {
+                                            "export-administration-act-south-africa": {
+                                                "y": "republican",
+                                                "?": {
+                                                    "handicapped-infants": {
+                                                        "y": "democrat",
+                                                        "n": "republican"
+                                                    }
+                                                },
+                                                "n": {
+                                                    "handicapped-infants": {
+                                                        "y": "republican",
+                                                        "n": "democrat"
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "y": "republican"
+                            }
+                        },
+                        "y": {
+                            "religious-groups-in-schools": {
+                                "y": "democrat",
+                                "n": "republican"
+                            }
+                        },
+                        "?": "democrat"
+                    }
+                }
+            }
+        },
+        "n": "democrat",
+        "?": {
+            "mx-missile": {
+                "y": "democrat",
+                "n": "democrat",
+                "?": "republican"
+            }
+        }
+    }
+}
